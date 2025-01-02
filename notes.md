@@ -29,7 +29,7 @@ In the stations, the lasers are set to 1 megawatt each, enough power to support 
 
 <img src="https://qph.cf2.quoracdn.net/main-qimg-7e07751be612500e77e4484eb4bcfe71.webp" height="1000">
  
-<img src="https://www.ligo.caltech.edu/system/pages/images/27/page/ifoschematic.jpg?1562878197" height="300">
+<img src="https://www.ligo.caltech.edu/system/pages/images/27/page/ifoschematic.jpg" height="300">
 
 
 # Problem statement 

@@ -47,9 +47,8 @@ The individual numbers in the dataset are most likely strain measurements- A dim
 
 Each pair of numbers in the last dimension corresponds to simultaneous strain measurements from Hanford Detector (first number) and  Livingston Detector (second number).
 
- - [ ] List item
-- Binaries **(simulated)**: gravitational waves expected from Binary Black Holes (BBH). **Injected into real background noise** to help train the models. ***(Negatives)*** 
-- Background **(Actual)**: Background noise from the O3a observation period. Any known gravitational wave events and other excess power glitches have been removed from this data. This "cleaned" background noise is what participants will primarily use to train their models to detect anomalies.
+- Binaries **(simulated)**: gravitational waves expected from Binary Black Holes (BBH). **Injected into real background noise** to help train the models. ***(Positives)*** 
+- Background **(Actual)**: Background noise from the O3a observation period. Any known gravitational wave events and other excess power glitches have been removed from this data. This "cleaned" background noise is what participants will primarily use to train their models to detect anomalies. ***(Negatives)***  
 - Sine-Gaussian **(simulated)**: Generic low-frequency signals used to represent potential gravitational wave sources that do not fit into the well-understood categories like BBH. ***(Positives)*** 
  
  

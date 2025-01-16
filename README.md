@@ -12,11 +12,25 @@ Gravitational waves are ripples in spacetime caused by massive cosmic events. We
 Traditional methods like matched filtering are effective for known gravitational-wave sources, such as merging black holes and neutron stars, but struggle with other unmodeled phenomenas. The purpose of this project was 
  to develop machine learning models to identify transient gravitational-wave anomalies from unknown sources. 
 
+For more background information, please read the [notes](notes.md) for a better understanding of gravitational waves and LIGO. 
+
+
 ## Model description 
 Our final submitted model is a transformer feeding into an auto encoder model that capture temporal aspects of the data. Four additional features have been engineered for the model to process, including power and dominant frequency. 
 
-## Challenges we faced 
-## Future improvement 
+## Reflections of members 
+EJ: I helped with the exploratory data analysis on the complete data segments so I could observe the general patterns, and after that tried to put together Autoencoder and Energy Models. With some difficulties in that direction, I then adjusted the VAE model into a higher ROC/accuracy.
+
+Reflection: I learned a lot about types of ml models and encoders, and the main difficulty was trying to understand the challenge premise and putting the model into the correct format
+
+Calvin: I helped with the exploratory data analysis by creating MFCCs and spectrograms of the wave data. I also created different visualization to determine good features to input into the models, such as power and dominant frequencies. I initially tried variational autoencoder. Pivoted to adjusting the transformer --> autoencoder model by feature engineering. 
+
+Reflection: I learned about how different ML models worked like variational autoencoders and how to train a ML model on time-series data. Some challenges include figuring out appropriate features for the model and understanding the challenge itself 
+
+Rebecca: I explored various models such as one class SVM, Isolation forest, CNN, RNN, autoencoder and a mix of those approaches for anomaly detection. I also helped organizing the project repo and write the notes page in this project for background information. 
+
+Reflection: 
+
 
 ## Members
 * Jiaying Chen [Linkedin](https://www.linkedin.com/in/jiaying-chen01/) | [Github](https://github.com/rcwoshimao) 

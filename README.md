@@ -33,7 +33,7 @@ Our final submitted model is a transformer feeding into an auto encoder model th
 
 
 ## Members
-* Jiaying Chen [Linkedin](https://www.linkedin.com/in/jiaying-chen01/) | [Github](https://github.com/rcwoshimao) 
-* Ernest Ibarolle Ernest Ibarolle: [Linkedin](https://www.linkedin.com/in/ernest-ibarolle) |  [github]("https://github.com/eibarolle) 
+* Jiaying(Rebecca) Chen: [Linkedin](https://www.linkedin.com/in/jiaying-chen01/) | [Github](https://github.com/rcwoshimao) 
+* Ernest Ibarolle: [Linkedin](https://www.linkedin.com/in/ernest-ibarolle) | [github]("https://github.com/eibarolle) 
 * Calvin Nguyen: [Linkedin](https://www.linkedin.com/in/calvin-nguyen-data/) | [Github](https://github.com/Neniflight)
 * Siddharth Vyasabattu: [LinkedIn](https://www.linkedin.com/in/siddharth-vyasabattu) | [GitHub](https://github.com/eliteapex)
